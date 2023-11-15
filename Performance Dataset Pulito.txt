@@ -1,0 +1,60 @@
+
+---------- DECISION TREE Dataset Pulito ----------
+
+--- Prestazioni del modello Decision Tree applicato al set di Test: 
+
+              precision    recall  f1-score   support
+
+           0       0.83      0.91      0.87      7276
+           1       0.78      0.63      0.70      3607
+
+    accuracy                           0.82     10883
+   macro avg       0.81      0.77      0.78     10883
+weighted avg       0.82      0.82      0.81     10883
+
+--- Accuratezza del modello Decision Tree: 0.81898
+--- AUC del modello Decision Tree: 0.86528
+
+---------- SUPPORT VECTOR MACHINE Dataset Pulito ----------
+
+              precision    recall  f1-score   support
+
+           0       0.84      0.88      0.86      7276
+           1       0.74      0.65      0.69      3607
+
+    accuracy                           0.81     10883
+   macro avg       0.79      0.77      0.77     10883
+weighted avg       0.80      0.81      0.80     10883
+
+--- Accuratezza del modello SVM: 0.8063
+--- AUC del modello SVM: 0.85572
+
+---------- DECISION TREE Dataset Pulito ----------
+
+--- Prestazioni del modello Decision Tree applicato al set di Test: 
+
+              precision    recall  f1-score   support
+
+           0       0.83      0.91      0.87      7276
+           1       0.78      0.63      0.70      3607
+
+    accuracy                           0.82     10883
+   macro avg       0.81      0.77      0.78     10883
+weighted avg       0.82      0.82      0.81     10883
+
+--- Accuratezza del modello Decision Tree: 0.81898
+--- AUC del modello Decision Tree: 0.86528
+
+---------- SUPPORT VECTOR MACHINE Dataset Pulito ----------
+
+              precision    recall  f1-score   support
+
+           0       0.84      0.88      0.86      7276
+           1       0.74      0.65      0.69      3607
+
+    accuracy                           0.81     10883
+   macro avg       0.79      0.77      0.77     10883
+weighted avg       0.80      0.81      0.80     10883
+
+--- Accuratezza del modello SVM: 0.8063
+--- AUC del modello SVM: 0.85572
